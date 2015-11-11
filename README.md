@@ -1,2 +1,2 @@
 # organicadda.github.io
-Github pages for the OrganicAdda project
+Github pages for the Organic Adda project
